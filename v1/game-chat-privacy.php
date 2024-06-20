@@ -1,0 +1,3 @@
+{
+  "gameChatPrivacy": "AllUsers"
+}

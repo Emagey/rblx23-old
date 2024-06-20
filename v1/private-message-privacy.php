@@ -1,0 +1,3 @@
+{
+  "privateMessagePrivacy": "Friends"
+}
